@@ -1,5 +1,6 @@
-# REDUCE/Symbolic Scripts 
-## by Dieter Egger
+# REDUCE/Symbolic Scripts
+
+## by Dieter (Olli) Egger
 
 ### Script Descriptions
 
@@ -68,4 +69,3 @@
 - [Symbolic for Android](https://play.google.com/store/apps/details?id=de.dieteregger.symbolic)
 - [German Script Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.php)
 - [English Script Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.en.php)
-
