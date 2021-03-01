@@ -1,0 +1,6 @@
+# Effectively disable Linguist
+doc/* linguist-vendored
+src/* linguist-vendored
+*.md linguist-vendored
+*.txt linguist-vendored
+*.red linguist-vendored
