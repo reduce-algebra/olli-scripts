@@ -68,8 +68,8 @@
 
 ### Availability
 
-- [English Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.en.php) (*English*)
-- [German Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.php) (*German*)
+- [English Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.en.php)
+- [German Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.php)
 - [GitHub Mirror](https://github.com/reduce-algebra/olli-scripts)
 - [SourceHut Mirror](https://git.sr.ht/~trn/olli-scripts)
 - [NotABug Mirror](https://notabug.org/reduce-algebra/olli-scripts)
