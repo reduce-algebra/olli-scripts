@@ -68,8 +68,8 @@
 
 ### Availability
 
-- [English Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.en.php)
-- [German Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.php)
+- [**English Homepage**](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.en.php)
+- [**German Homepage**](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.php)
 - [GitHub Mirror](https://github.com/reduce-algebra/olli-scripts)
 - [SourceHut Mirror](https://git.sr.ht/~trn/olli-scripts)
 - [NotABug Mirror](https://notabug.org/reduce-algebra/olli-scripts)
@@ -79,7 +79,7 @@
 
 ### Author
 
-- [DL2MIE](https://dl2mie.darc.de/) - Dieter (*Olli*) Egger's Homepage
+- [**DL2MIE**](https://dl2mie.darc.de/) - Dieter (*Olli*) Egger's Homepage
 
 ----
 
