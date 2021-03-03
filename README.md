@@ -1,6 +1,10 @@
 # REDUCE/Symbolic Scripts
 
+----
+
 ## by Dieter (Olli) Egger
+
+----
 
 ### Script Descriptions
 
@@ -60,12 +64,27 @@
 
 - Speed of light: `speedoflight.txt`
 
-### Homepage
+----
 
-- [DL2MIE](https://dl2mie.darc.de/)
+### Availability
 
-### Links
+- [English Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.en.php) (*English*)
+- [German Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.php) (*German*)
+- [GitHub Mirror](https://github.com/reduce-algebra/olli-scripts)
+- [SourceHut Mirror](https://git.sr.ht/~trn/olli-scripts)
+- [NotABug Mirror](https://notabug.org/reduce-algebra/olli-scripts)
+- [Chisel Mirror](https://chiselapp.com/user/reduce-algebra/repository/olli-scripts/)
 
-- [Symbolic for Android](https://play.google.com/store/apps/details?id=de.dieteregger.symbolic)
-- [German Script Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.php)
-- [English Script Homepage](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.en.php)
+----
+
+### Author
+
+- [DL2MIE](https://dl2mie.darc.de/) - Dieter *(Olli)* Egger's Homepage
+
+----
+
+### Other Links
+
+- [Symbolic for Android](https://play.google.com/store/apps/details?id=de.dieteregger.symbolic) - **REDUCE** for Android
+
+----
