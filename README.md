@@ -2,7 +2,7 @@
 
 ----
 
-## by Dieter (Olli) Egger
+## by Dieter (*Olli*) Egger
 
 ----
 
@@ -79,12 +79,12 @@
 
 ### Author
 
-- [DL2MIE](https://dl2mie.darc.de/) - Dieter *(Olli)* Egger's Homepage
+- [DL2MIE](https://dl2mie.darc.de/) - Dieter (*Olli*) Egger's Homepage
 
 ----
 
 ### Other Links
 
-- [Symbolic for Android](https://play.google.com/store/apps/details?id=de.dieteregger.symbolic) - **REDUCE** for Android
+- [Symbolic](https://play.google.com/store/apps/details?id=de.dieteregger.symbolic) - **REDUCE** for Android
 
 ----
