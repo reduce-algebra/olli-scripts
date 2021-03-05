@@ -71,6 +71,7 @@
 - [**English Homepage**](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.en.php)
 - [**German Homepage**](https://reduce-algebra.sourceforge.io/tutorials/EggerScripts.php)
 - [GitHub Mirror](https://github.com/reduce-algebra/olli-scripts)
+- [GitLab Mirrpr](https://gitlab.com/reduce-algebra/olli-scripts)
 - [SourceHut Mirror](https://git.sr.ht/~trn/olli-scripts)
 - [NotABug Mirror](https://notabug.org/reduce-algebra/olli-scripts)
 - [Chisel Mirror](https://chiselapp.com/user/reduce-algebra/repository/olli-scripts/)
