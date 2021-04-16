@@ -1,16 +1,17 @@
 # REDUCE/Symbolic Scripts
 
-----
+---
 
-## by Dieter (*Olli*) Egger
+## by Dieter (_Olli_) Egger
 
-----
+---
 
 ### Script Descriptions
 
 - Solving equations: `algebra.txt`
 
 - Analyzing functions: `analyze.red`
+
   - Decide on the function to be analyzed, for example `"f:=x**3 - 2*x**2;"`
 
 - Properties: `boolean.txt`
@@ -32,6 +33,7 @@
 - Nested parentheses: `heron.txt`
 
 - Hypergeometry and MeijerG: `hypermeijerg.txt`
+
   - Without LaTeX formatting OK.
 
 - Integration, limits: `integLimit.red`
@@ -45,6 +47,7 @@
 - Matrix inversion: `mat.red`
 
 - Computation of space-time metrics
+
   - Metric-tensor from the equation of the hypersurface of a hypersphere, 2-dim: `metric2calc.red`, 3-dim: `metric3calc.red`, 4-dim: `metric4calc.red`
   - Riemann, Ricci, Einstein tensors and solution of the field equations, 2-dim: `metric2d.red`, 3-dim: `metric3d.red`, 4-dim: `metric4d.red`
 
@@ -64,7 +67,7 @@
 
 - Speed of light: `speedoflight.txt`
 
-----
+---
 
 ### Availability
 
@@ -76,16 +79,16 @@
 - [NotABug Mirror](https://notabug.org/reduce-algebra/olli-scripts)
 - [Chisel Mirror](https://chiselapp.com/user/reduce-algebra/repository/olli-scripts/)
 
-----
+---
 
 ### Author
 
-- [**DL2MIE**](https://dl2mie.darc.de/) - Dieter (*Olli*) Egger's Homepage
+- [**DL2MIE**](https://dl2mie.darc.de/) - Dieter (_Olli_) Egger's Homepage
 
-----
+---
 
 ### Other Links
 
 - [Symbolic](https://play.google.com/store/apps/details?id=de.dieteregger.symbolic) - **REDUCE** for Android
 
-----
+---
